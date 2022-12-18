@@ -1,2 +1,6 @@
-# GitDemo
-This is a demo app for the GIT course
+# Git Demo Repo
+This is a demo app for the GIT course.
+
+## Roadmap
+*Add new features
+*Fix bugs
