@@ -10,7 +10,7 @@ builder.Services.AddServerSideBlazor();
 builder.Services.AddSingleton<WeatherForecastService>();
 
 var app = builder.Build();
-
+//Program file chanegs to Feature branch 
 // Configure the HTTP request pipeline.
 if (!app.Environment.IsDevelopment())
 {
