@@ -10,6 +10,7 @@ builder.Services.AddServerSideBlazor();
 builder.Services.AddSingleton<WeatherForecastService>();
 
 var app = builder.Build();
+//Test the merge Conflict in "Main Branch"
 
 // Configure the HTTP request pipeline.
 if (!app.Environment.IsDevelopment())
